@@ -28,6 +28,10 @@ function HoverFocusAndOtherStates() {
           Item 4
         </li>
       </ul>
+      <div className="group ms-4 mt-4">
+        <h4>Heading level 4</h4>
+        <p className="group-has-[h4]:bg-blue-200">Some text</p>
+      </div>
     </div>
   )
 }
