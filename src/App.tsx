@@ -1,3 +1,7 @@
+/**
+ * More info
+ * https://tailwindcss.com/docs/hover-focus-and-other-states
+ */
 function HoverFocusAndOtherStates() {
   return (
     <div>
